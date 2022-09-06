@@ -28,7 +28,7 @@ th {
 
 th.choicesCol {
 	box-sizing:border-box;
-	width:105px
+	width:85px
 }
 
 th + th { border-left:none }
