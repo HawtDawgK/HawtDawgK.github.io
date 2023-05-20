@@ -524,6 +524,14 @@
 ? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
 * Bondage (Heavy)
 ? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
+* Ribbons
+? The use of ribbons to die down/otherwise restrict movement.
+* Ropes
+? The use of ropes to tie down/otherwise restrict movement.
+* Chains
+? The use of chains to tie down/otherwise restrict movement.
+* Duct Tape
+? The use of duct tape to tie down/otherwise restrict movement.
 * Gags
 ? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
 * O-Ring Gags
@@ -928,8 +936,6 @@
 * Death
 * Snuff
 ? Murder being apart of the sex
-* Rot/Decay
-? Decaying of bodies/body parts. Doesn't necessarily imply they are dead.
 * Necrophilia
 ? Attraction to dead bodies
 
