@@ -20,7 +20,6 @@
 #Self Genital Size
 (Small, Average, Large)
 * Ass
-* Clit
 * Cock
 * Balls
 * Nipples
@@ -30,7 +29,6 @@
 #Partner(s) Genital Size
 (Small, Average, Large)
 * Ass
-* Clit
 * Cock
 * Balls
 * Nipples
